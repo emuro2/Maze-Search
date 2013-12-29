@@ -12,10 +12,10 @@ Description:
 
 Implement the following search algorithms for solving different mazes:
 
-Depth-first search;
-Breadth-first search;
-Greedy best-first search;
-A* search.
+  Depth-first search;
+  Breadth-first search;
+  Greedy best-first search;
+  A* search.
 
 For greedy and A* search, use the Manhattan distance from the current position to the goal as the heuristic function.
 Run each of the above algorithms on the small maze, medium maze, big maze, and the open maze. For each problem instance and each search algorithm, include the following in your report:
